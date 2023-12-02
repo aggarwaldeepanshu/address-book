@@ -1,0 +1,13 @@
+ADD Deepanshu Aggarwal Address1 12345
+ADD Aman Verma Address2 123456789
+ADD Deependra Sharma Address3 54321
+GET-BY-NAME Deepanshu
+GET-BY-NAME Deepaanshu
+GET-BY-NAME Deependra
+ADD Deependra Goyal Address4 98765
+GET-BY-NAME Deependra
+GET-BY-PHONE-NUMBER 12345
+GET-BY-PHONE-NUMBER 98765
+GET-BY-NAME Aman
+GET-BY-NAME Am
+GET-BY-PHONE-NUMBER 1234
